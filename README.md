@@ -1,7 +1,7 @@
 # Analysis of the Swedish stock market with the help of K-means clustering
 This project was created for my master thesis. I have combined many different tutorials to achieve the goal of this project but the main inspiration was the blog post of [Timothy Ong](https://medium.com/uptick-blog/stock-picks-using-k-means-clustering-4330c6c4e8de).
 
-## What I have learned on th is project
+## What I have learned on this project
 
 The main goal of this project was to have some hands-on unsupervised learning. My previous project was a forecast of the Swedish stock market using supervised learning (deep neural network - LSTM), so I wanted to learn more about unsupervised learning. During this project I obtained more knowledge about using the Yahoo Finance API directly from Python to download data from the stock market, I learned the strengths and weaknesses of the k-means method and unsupervised learning.
 
